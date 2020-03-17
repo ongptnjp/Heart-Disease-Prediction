@@ -13,6 +13,7 @@ Run `app.py` locally then serve at 127.0.0.1:4000 (port 4000)
 - Flask
 - Numpy
 - Pickle
+- pandas
 
 ---
 
